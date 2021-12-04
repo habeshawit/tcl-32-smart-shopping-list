@@ -7,3 +7,5 @@ This project creates a “smart” shopping list app that learns user's buying h
 ## How does it work?
 
 As a user, you will enter items (e.g., “Greek yogurt” or “Paper towels”) into your list. Each time you buy the item, you mark it as purchased in the list. Over time, the app comes to understand the intervals at which you buy different items. If an item is likely to be due to be bought soon, it rises to the top of the shopping list.
+
+#### [Live Demo](https://tcl-32-smart-shopping-list.web.app/)
